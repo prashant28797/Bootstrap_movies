@@ -1,0 +1,91 @@
+/*.header{
+	background-color: #1abc9c;
+}*/
+
+body {
+    background-color: #34495e;
+}
+
+.bollywood {
+    background-color: black;
+}
+
+.bollywood h3 {
+    /*margin-top: 11px;*/
+    margin: auto;
+    margin-bottom: 10px;
+    /*padding-top: 9px;*/
+    color: white;
+    margin-left: 593px;
+    padding: 35px;
+}
+
+.bollywood .card {
+    margin: auto;
+}
+
+.bollywood .card-img-top {
+    border-bottom-style: solid;
+    border-width: 5px;
+    border-color: green;
+    /*overflow: hidden;*/
+}
+
+.bollywood img.card-img-top {
+    overflow: hidden;
+}
+
+.bollywood .card-img-top:hover {
+    transform: scale(1.4);
+    transition: scale 1s ease-in;
+    filter: brightness(.5);
+}
+
+.bollywood .card-title h4,
+a {
+    margin: auto;
+    margin-left: 69px;
+}
+
+.bollywood .card-img-top {
+    height: 327px;
+}
+
+#filter h3{
+        margin-left: 509px;
+    padding: 38px;
+}
+
+#footer {
+    height: auto;
+    width: 98%;
+    color: #fff;
+    background-color: #95a5a6;
+    text-align: center;
+    position: absolute;
+    /*margin-top: 1px;*/
+}
+
+#footer ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    margin-left: 460px;
+    margin-top: 18px;
+}
+
+#footer ul li {
+    float: left;
+}
+
+#p1 {
+    margin-top: 72;
+    font-size: small;
+    margin: auto;
+    margin-top: 16px;
+}
+
+#p2 {
+    font-size: 15;
+    margin: auto;
+}
