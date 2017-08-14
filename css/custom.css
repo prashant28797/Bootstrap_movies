@@ -7,7 +7,7 @@ body {
 }
 
 .bollywood {
-    background-color: black;
+    background-color: #e67e22;
 }
 
 .bollywood h3 {
@@ -52,14 +52,38 @@ a {
 }
 
 #filter h3{
-        margin-left: 509px;
+        margin-left: 351px;
     padding: 38px;
 }
 
 ul li{
     list-style: none;
+    color: white;
 }
 
+ul li ul li a{
+    float: left;
+    margin:auto;
+    color: white;
+}
+
+#footer{
+        padding: 30px;
+        background-color: #2c3e50;
+}
+#partner .row{
+
+padding-left: 81px;
+
+}
+
+#filter{
+    background-color:#9b59b6;
+}
+
+#filter .row{
+    padding-left: 210px;
+}
 
 #p1 {
         margin-left: 248px;
