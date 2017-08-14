@@ -1,24 +1,23 @@
-/*.header{
-	background-color: #1abc9c;
-}*/
+
 
 body {
     background-color: #34495e;
 }
 
+
+/*column section*/
+
 .bollywood {
     background-color: #e67e22;
 }
 
-.bollywood h3 {
-    /*margin-top: 11px;*/
+/*.bollywood h3 {
     margin: auto;
     margin-bottom: 10px;
-    /*padding-top: 9px;*/
     color: white;
     margin-left: 593px;
     padding: 35px;
-}
+}*/
 
 .bollywood .card {
     margin: auto;
@@ -31,7 +30,7 @@ body {
     /*overflow: hidden;*/
 }
 
-.bollywood img.card-img-top {
+/*.bollywood img.card-img-top {
     overflow: hidden;
 }
 
@@ -39,22 +38,26 @@ body {
     transform: scale(1.4);
     transition: scale 1s ease-in;
     filter: brightness(.5);
-}
+}*/
 
-.bollywood .card-title h4,
+/*.bollywood .card-title h4,
 a {
     margin: auto;
     margin-left: 69px;
-}
+}*/
 
-.bollywood .card-img-top {
+/*.bollywood .card-img-top {
     height: 327px;
-}
+}*/
 
-#filter h3{
+/*end of column section*/
+
+/*filter section*/
+
+/*#filter h3{
         margin-left: 351px;
     padding: 38px;
-}
+}*/
 
 ul li{
     list-style: none;
@@ -71,25 +74,25 @@ ul li ul li a{
         padding: 30px;
         background-color: #2c3e50;
 }
-#partner .row{
+/*#partner .row{
 
 padding-left: 81px;
 
-}
+}*/
 
 #filter{
     background-color:#9b59b6;
 }
 
-#filter .row{
+/*#filter .row{
     padding-left: 210px;
 }
-
+*/
 #p1 {
         margin-left: 248px;
 }
 
-#p2 {
+/*#p2 {
     font-size: 15;
     margin: auto;
-}
+}*/
