@@ -81,7 +81,13 @@ padding-left: 81px;
 }*/
 
 #filter{
+
     background-color:#9b59b6;
+}
+
+
+#filter .filters{
+    padding-left: 115px;
 }
 
 /*#filter .row{
@@ -92,7 +98,46 @@ padding-left: 81px;
         margin-left: 248px;
 }
 
+h3{
+    padding: 45px;
+}
+
+
+
 /*#p2 {
     font-size: 15;
     margin: auto;
 }*/
+@media (max-width: 575px) { 
+
+        #footer ul li h4{
+        font-size: large;
+    }
+
+    #footer ul li{
+        font-size:small;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) { 
+    #footer ul li h4{
+        font-size: large;
+    }
+
+    #footer ul li{
+        font-size:small;
+    }
+
+ }
+
+
+@media (min-width: 768px) and (max-width: 991px) { 
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px) { 
+ }
+
+@media (min-width: 1200px) { 
+ }
